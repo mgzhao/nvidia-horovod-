@@ -1,4 +1,4 @@
-FROM nvcr.io/nvidia/tensorflow:18.09-py3
+FROM nvcr.io/nvidia/tensorflow:19.06-py3
 
 # Python 2.7 or 3.5 is supported by Ubuntu Xenial out of the box
 ARG python=3.5
